@@ -1,6 +1,6 @@
-# flower-password-user-script
+# flower-password-plus-user-script
 
-Flower Password implementation for User Script.
+Flower Password and SeekPassword implementation for User Script.
 
 ## 1.“花密”是用来干什么的
 
@@ -25,3 +25,6 @@ Flower Password implementation for User Script.
 ## 4.官网地址
 
 [Flower Password](https://flowerpassword.com/)
+
+Fork from https://github.com/xlsdg/flower-password-user-script
+
