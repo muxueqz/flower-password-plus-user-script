@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Flower Password Plus
 // @name:zh-CN   花密Plus
-// @namespace    https://greasyfork.org/zh-CN/scripts/23026-flower-password
-// @version      0.5.2
+// @namespace    https://github.com/muxueqz/flower-password-plus-user-script
+// @version      0.6.0
 // @author       徐小花, Johnny Jian, xLsDg
 // @description  花密 Flower Password - 可记忆的密码管理方案
-// @homepageURL  https://github.com/xlsdg/flower-password-user-script
+// @homepageURL  https://github.com/muxueqz/flower-password-plus-user-script
 // @icon         https://cdn.jsdelivr.net/gh/xlsdg/flower-password-user-script/icon.png
 // @updateURL    https://cdn.jsdelivr.net/gh/xlsdg/flower-password-user-script/flowerpassword.user.js
 // @downloadURL  https://cdn.jsdelivr.net/gh/xlsdg/flower-password-user-script/flowerpassword.user.js
